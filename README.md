@@ -1,2 +1,10 @@
-# Chatbot-with-LangChain-and-Groq
-To check the session based conversational memory between an AI model and user in python, a chatbot using LangChain and Groq API was used. 
+# Chatbot ( LangChain and Groq API)
+This project is a basic chatbot using LangChain, and Groq API] with the “llama3-8b-8192” and “Gemma2-9b-It” models. 
+# Main features
+•	Use “.env” file to store API key
+•	Send human messages to LLMs using LangChain
+•	Track chat history at different sessions
+•	Check past memory
+# Files:
+•	chat_project.pdf
+
